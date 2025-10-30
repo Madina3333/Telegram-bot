@@ -2,7 +2,7 @@
 
 import os
 import aiohttp
-
+int a = 0
 # Папка для хранения фотографий пользователей
 PHOTO_DIR = "photos"
 
